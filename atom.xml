@@ -3,11 +3,11 @@
   <title>caleb`Blog</title>
   
   
-  <link href="https://github.com/caleb-coding/caleb-coding.github.io/atom.xml" rel="self"/>
+  <link href="https://caleb-coding.github.io/atom.xml" rel="self"/>
   
-  <link href="https://github.com/caleb-coding/caleb-coding.github.io/"/>
+  <link href="https://caleb-coding.github.io/"/>
   <updated>2024-09-02T18:21:06.169Z</updated>
-  <id>https://github.com/caleb-coding/caleb-coding.github.io/</id>
+  <id>https://caleb-coding.github.io/</id>
   
   <author>
     <name>caleb</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>字符串详解</title>
-    <link href="https://github.com/caleb-coding/caleb-coding.github.io/post/a7191fd7.html"/>
-    <id>https://github.com/caleb-coding/caleb-coding.github.io/post/a7191fd7.html</id>
+    <link href="https://caleb-coding.github.io/post/a7191fd7.html"/>
+    <id>https://caleb-coding.github.io/post/a7191fd7.html</id>
     <published>2024-09-02T18:18:34.000Z</published>
     <updated>2024-09-02T18:21:06.169Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/caleb-coding/caleb-coding.github.io/post/4a17b156.html"/>
-    <id>https://github.com/caleb-coding/caleb-coding.github.io/post/4a17b156.html</id>
+    <link href="https://caleb-coding.github.io/post/4a17b156.html"/>
+    <id>https://caleb-coding.github.io/post/4a17b156.html</id>
     <published>2024-09-02T16:08:53.747Z</published>
     <updated>2024-09-02T17:36:23.509Z</updated>
     
